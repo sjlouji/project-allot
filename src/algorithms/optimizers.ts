@@ -258,3 +258,4 @@ export class AdaptiveOptimizer {
     return this.greedy.optimize(matrix);
   }
 }
+// Performance optimizations
