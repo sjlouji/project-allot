@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Documentation
+    url: https://github.com/yourorg/assignment-engine/docs
+    about: Check our documentation for help
+  - name: Discussions
+    url: https://github.com/yourorg/assignment-engine/discussions
+    about: Ask questions in Discussions
