@@ -202,3 +202,4 @@ export class SurgeHandler {
     return centroids;
   }
 }
+// Enhanced surge detection
