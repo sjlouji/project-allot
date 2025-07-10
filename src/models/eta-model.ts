@@ -177,3 +177,4 @@ interface RiderETAModel {
   trainingDatapoints: number;
   lastUpdated: Date;
 }
+// Improved ETA accuracy
