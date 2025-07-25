@@ -942,3 +942,4 @@ function createTestRiders(count: number): Map<string, Rider> {
 
   return riders;
 }
+// Additional edge case tests
