@@ -468,3 +468,4 @@ A: Recommendations are suggestions. You can apply custom logic.
 - [Algorithms](./algorithms.md) - How scoring works
 - [Configuration](./configuration.md) - All config options
 - [Tests](../tests/) - More usage patterns
+// Enhanced documentation
