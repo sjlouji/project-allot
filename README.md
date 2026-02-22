@@ -1,6 +1,6 @@
 # Last-Mile Delivery Assignment Engine
 
-A production-ready TypeScript engine for optimally assigning delivery orders to riders using multi-stage optimization, intelligent batching, and dynamic surge handling.
+TypeScript engine for optimally assigning delivery orders to riders using multi-stage optimization, intelligent batching, and dynamic surge handling.
 
 ## What This Algorithm Does
 
