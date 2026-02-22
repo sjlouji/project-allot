@@ -8,7 +8,7 @@ This engine solves the **assignment problem** in last-mile delivery: given a set
 
 It's designed for high-volume delivery operations where orders arrive continuously and demand fluctuates unpredictably. The algorithm runs in near real-time (cycles every 15-60 seconds) and adapts to surge conditions automatically.
 
-### Key Capabilities
+### Capabilities
 
 - **Multi-objective optimization**: Balances 6 competing goals (time, SLA risk, distance, route disruption, workload fairness, zone familiarity)
 - **Constraint satisfaction**: Respects vehicle capacity, shift times, SLA deadlines, geographic boundaries, and special requirements
